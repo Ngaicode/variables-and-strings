@@ -1,0 +1,15 @@
+Variables are basically like containers which we store value in.
+It is the programmer who assigns value to a variable.
+A variable's value can be changed and re-assigned at anytime.
+A variable's value can be another variable.
+
+VARIABLE NAMING CONVENTIONS
+1. A variable name can't start with a number.
+2. variable names can consist of letters, numbers or underscores.
+3. The most conventional way of naming python variables is in snake_casing which is  done in all lower case.eg variable_one = 123
+- The only exception to this rule is when naming is done in all uppercase snake casing, this usually refers to a constant that shouldn't 
+interfered with eg THIS_IS_A_CONSTANT  = 3.14
+- Another exception is when a variable is named in uppercase camel casing, then it refers to a class (more on that later) 
+4. When a variable name starts and ends with underscores, such are called dunder (Double UNDERscores)which means 
+that such variables shouldn't be interfered with
+
